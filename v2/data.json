@@ -1,0 +1,33 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "owasp cheatsheet",
+      "url": "https://cheatsheetseries.owasp.org/",
+      "avatar": "https://cheatsheetseries.owasp.org/assets/OWASP_Logo_Transp.png",
+      "screenshot": "https://m1nzhi.oss-cn-beijing.aliyuncs.com/owasp_cheatsheet.png",
+      "description": "owasp项目汇总，asvs，top10，特别是cheatsheet应该好好看看"
+    },
+    {
+      "title": "SAMM软件成熟度模型",
+      "url": "https://owaspsamm.org/model/",
+      "avatar": "https://owasp.org/Top10/assets/OWASP_Logo_Transp.png",
+      "screenshot": "https://m1nzhi.oss-cn-beijing.aliyuncs.com/samm.png",
+      "description": ""
+    },
+    {
+      "title": "web安全测试指南",
+      "url": "https://owasp.org/www-project-web-security-testing-guide/stable/",
+      "avatar": "https://owasp.org/Top10/assets/OWASP_Logo_Transp.png",
+      "screenshot": "https://m1nzhi.oss-cn-beijing.aliyuncs.com/owaspwstg.png",
+      "description": ""
+    },
+    {
+      "title": "owasp top 10 2021版-中文",
+      "url": "https://owasp.org/Top10/zh_CN/",
+      "avatar": "https://owasp.org/Top10/assets/OWASP_Logo_Transp.png",
+      "screenshot": "https://m1nzhi.oss-cn-beijing.aliyuncs.com/owasptop10zh.png",
+      "description": "owasp top 10 2021版-中文 "
+    }
+  ]
+}
